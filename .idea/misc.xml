@@ -3,7 +3,34 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable-v24/bg_btn_keranjang.xml" value="0.2546875" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable-v24/ic_baseline_lock_orange_24.xml" value="0.20729166666666668" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/bg_btn_beli.xml" value="0.2546875" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/bg_btn_keranjang.xml" value="0.2546875" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/bgn_btn_google.xml" value="0.24479166666666666" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/btn_keranjang.xml" value="0.2546875" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/ic_baseline_akun.xml" value="0.24479166666666666" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.20729166666666668" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.24479166666666666" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.20729166666666668" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/ic_chat.xml" value="0.19375" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24479166666666666" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/activity_baru.xml" value="0.1381340579710145" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/activity_baru2.xml" value="0.1381340579710145" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/activity_detail_produk.xml" value="0.176" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/activity_main2.xml" value="0.13125" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/activity_masuk.xml" value="0.12360688956433637" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/fragment_akun.xml" value="0.176" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/fragment_home2.xml" value="0.16621376811594202" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/fragment_keranjang.xml" value="0.15416666666666667" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/item_produk.xml" value="0.152" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/item_slider.xml" value="0.1526268115942029" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/layout/toolbar.xml" value="0.23854166666666668" />
+        <entry key="..\:/CompanyThriftStore/app/src/main/res/menu/bottom_nav_menu.xml" value="0.196875" />
       </map>
     </option>
   </component>
